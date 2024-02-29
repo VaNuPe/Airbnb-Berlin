@@ -20,6 +20,6 @@ Berlin Airbnb Ratings - An Evaluation of Berlin Airbnb Properties Based on Host 
 The data is sourced from publicly available information from [Inside Airbnb](http://insideairbnb.com) and scraped by [Makeover Monday](https://data.world/makeovermonday). 
 
 ## Results
-Based on the analysis performed in Python, the more relevant findings are in a T[ableau Storyboard](https://public.tableau.com/shared/73BSR424S?:display_count=n&:origin=viz_share_link).
+Based on the analysis performed in Python, the more relevant findings are in a [Tableau Storyboard](https://public.tableau.com/shared/73BSR424S?:display_count=n&:origin=viz_share_link).
 
 
